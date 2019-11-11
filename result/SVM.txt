@@ -1,0 +1,13 @@
+linear:
+
+SVM begin
+training time: 96.033 s
+accuracy score: 0.855352865303114
+recall score: 0.9388017691998392
+
+rbf:
+
+SVM begin
+training time: 92.956 s
+accuracy score: 0.8514219028315214
+recall score: 0.9434660233212706
